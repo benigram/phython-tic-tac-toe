@@ -1,6 +1,6 @@
 # Play Tic-Tac-Toe
 
-You can play Tic-Tac-Toe in the Terminal. 
+You can play Tic-Tac-Toe in the terminal by executing `python tic-tac-toe.py`. 
 
 ## Set up your Environment
 
