@@ -1,6 +1,6 @@
-# Coding Challenge - Tic-Tac-Toe
+# Play Tic-Tac-Toe
 
-Today we're going to test and improve our coding skills by creating a simple game of Tic-Tac-Toe in Python. 
+You can play Tic-Tac-Toe in the Terminal. 
 
 ## Set up your Environment
 
