@@ -4,7 +4,6 @@ You can play Tic-Tac-Toe in the Terminal.
 
 ## Set up your Environment
 
-Fork this repository, clone it on your machine and create a new environment inside the folder. Don't forget to activate it for the assignment. 
 
 ### **`macOS`** type the following commands : 
 
